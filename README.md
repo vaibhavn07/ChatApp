@@ -1,3 +1,6 @@
-## To run the webapp
-### first go to folder containing server.js file then run command 
-`npm run start`
+## To Run the Web App
+
+1. First, navigate to the folder containing the `server.js` file.
+2. Run the following command to start the server:
+   ```sh
+   npm run start
